@@ -31,3 +31,5 @@ pipeline {
             }
         }
 }
+
+// checking pipeline operation
